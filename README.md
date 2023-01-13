@@ -13,4 +13,4 @@
 <p><a href="https://ko-fi.com/dudevs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dudevs" /></a></p><br><br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=monk845&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=duga17&theme=blueberry_duo&hide_border=true)](https://git.io/streak-stats)
