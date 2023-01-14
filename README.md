@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Douglas Deodanes</h1>
 <h3 align="center">A passionate frontend developer from el salvador</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=duga17&theme=material-palenight&locale=es)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=duga17&theme=vue-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
