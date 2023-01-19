@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Douglas Deodanes</h1>
 <h3 align="center">A passionate frontend developer from el salvador</h3>
 
+<span align="center"> <h1> :star: My Career: </h1> </span>
 [![GitHub Streak](https://streak-stats.demolab.com?user=dugadev17&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-<span align="center"> <h1> :star: My Career: </h1> </span>
