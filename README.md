@@ -1,12 +1,11 @@
-# Douglas Deodanes
-### Full Stack developer
+
+### Frontend developer
 
 ⤷ Hola, Douglas un apasionado por aprender nuevos temas nuevas tecnologicas
 
  <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/douglas-deodanes" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
 ⚐ Based in El Salvador
-
 
 
 ϟ Recently Learning
