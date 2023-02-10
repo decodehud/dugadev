@@ -7,7 +7,6 @@
 
 ⚐ Based in El Salvador
 
-<a href="https://viteconf.org/tickets/dugadev17"></a>
 ϟ Recently Learning
 
  ## Skills
